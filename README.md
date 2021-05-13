@@ -1,6 +1,6 @@
 # Ideas wishlist
 
-A list of ideas and things I'd like to do, explore, learn, when I have the time. Beware, the projects ranges from "finishing something long overdue" to "learning a whole new part of CS". I tried to divide them into the time estimated it would take.
+A list of ideas and things I'd like to do, explore, learn, when I have the time. Beware, the projects range from "finishing something long overdue" to "learning a whole new part of CS". I have tried to divide them into the time estimated it would take.
 
 Some of these might be interesting for other people to think about (together?!), some less so.
 
@@ -22,7 +22,9 @@ Some of these might be interesting for other people to think about (together?!),
 
 * Write a program that implements the first obvious idea that comes to mind for the [Hutter prize](http://prize.hutter1.net/) and test how badly (or well??) it does
 
-* Develop: how to fully understand deep learning without using ANY matrices. Linear algebra is not about matrices but about linear transformations of space. Matrices are just the numeric representation of these transformations. It is also possible to understand what the stack and heap are without writing assembly code. So why are neural networks taught with matrix multiplication?!
+* Writing assignment: grokking deep learning without using ANY matrices.
+
+Linear algebra is not about matrices but about linear transformations of space. Matrices are just the numeric representation of these transformations. It is also possible to understand what the stack and heap are without writing assembly code. So why are neural networks taught with matrix multiplication?! (This is an idea that I need to develop further, this is just the pitch.)
 
 * Visualizing the Fourier transform, following along with [this coding challenge](https://thecodingtrain.com/CodingChallenges/125-fourier-series.html)
 
