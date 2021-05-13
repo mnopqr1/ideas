@@ -28,6 +28,8 @@ Linear algebra is not about matrices but about linear transformations of space. 
 
 * Visualizing the Fourier transform, following along with [this coding challenge](https://thecodingtrain.com/CodingChallenges/125-fourier-series.html)
 
+* Play the [natural numbers game](http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/) and understand how to get a simple math proof to work in [Lean](https://leanprover.github.io/)
+
 ## A few days of playing around
 
 * The [Nand2Tetris operating system project](https://www.nand2tetris.org/project12)
@@ -39,7 +41,6 @@ Linear algebra is not about matrices but about linear transformations of space. 
 * Write a homegrown spaced repetition system, a clone of  [Anki](https://apps.ankiweb.net/) with a friendlier interface.
 
 * [Ray tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html). I collected [more graphics learning resources](graphics.md) on a separate page.
-
 
 
 ## A week of hard focused work, or more
