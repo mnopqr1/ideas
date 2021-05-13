@@ -1,4 +1,4 @@
-# Ideas wishlist
+# Programming wishlist
 
 A list of ideas and things I'd like to do, explore, learn, when I have the time. Started on a piece of paper during my batch at the [Recurse center](https://www.recurse.com) and continued since then. 
 
