@@ -1,6 +1,6 @@
 # Graphics learning resources
 
-Many of these resources were recommended by Recursers in the Zulip game-dev stream.
+Many of these resources were recommended by other Recursers in the Zulip game-dev stream.
 
 * [Ray-tracing in a weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
