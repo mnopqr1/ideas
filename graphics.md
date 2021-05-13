@@ -1,5 +1,7 @@
 # Graphics learning resources
 
+Many of these resources were recommended by Recursers in the Zulip game-dev stream.
+
 * [Ray-tracing in a weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 * Physically based rendering course at TU Wien:
