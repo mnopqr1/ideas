@@ -1,4 +1,4 @@
-# Graphics learning resources
+# Graphics learning resources that I'd like to explore
 
 Many of these resources were recommended by other Recursers in the Zulip game-dev stream.
 
