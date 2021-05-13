@@ -38,7 +38,7 @@ Linear algebra is not about matrices but about linear transformations of space. 
 
 * Write a homegrown spaced repetition system, a clone of  [Anki](https://apps.ankiweb.net/) with a friendlier interface.
 
-* [Ray tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+* [Ray tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html). I collected [more graphics learning resources](graphics.md) on a separate page.
 
 
 
