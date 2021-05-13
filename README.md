@@ -1,6 +1,6 @@
 # Ideas wishlist
 
-A list of ideas and things I'd like to do, explore, learn, when I have the time. Beware, the projects range from "finishing something long overdue" to "learning a whole new part of CS". I have tried to divide them into the time estimated it would take.
+A list of ideas and things I'd like to do, explore, learn, when I have the time. Beware, the projects range from "finishing something long overdue" to "learning a whole new part of CS". I have tried to divide them into the time estimated it would take, at least initially. There's a good chance that if I like the project, then I'd work on it a lot longer.
 
 Some of these might be interesting for other people to think about (together?!), some less so.
 
