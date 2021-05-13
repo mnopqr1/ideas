@@ -1,6 +1,8 @@
 # Ideas wishlist
 
-A list of ideas and things I'd like to do, explore, learn, when I have the time. Started during my batch at the [Recurse center](https://www.recurse.com) Beware, the projects range from "finishing something long overdue" to "learning a whole new part of CS". I have tried to divide them into the time estimated it would take, at least initially. There's a good chance that if I like the project, then I'd work on it a lot longer.
+A list of ideas and things I'd like to do, explore, learn, when I have the time. Started on a piece of paper during my batch at the [Recurse center](https://www.recurse.com) and continued since then. 
+
+Beware, the projects range from "finishing something long overdue" to "learning a whole new part of CS". I have tried to divide them into the time estimated it would take, at least initially. There's a good chance that if I like the project, then I'd work on it a lot longer. This is not a *to-do list* but a *things-I-know-I-can-get-excited-about list*.
 
 Some of these might be interesting for other people to think about (together?!), some less so. If you see something you want to chat about, contact me via [e-mail](mnopqr1@pm.me) or on the RC zulip (probably faster).
 
