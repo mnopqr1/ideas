@@ -32,6 +32,8 @@ Linear algebra is not about matrices but about linear transformations of space. 
 
 * Play the [natural numbers game](http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/) and understand how to get a simple math proof to work in [Lean](https://leanprover.github.io/)
 
+* Understand what [CRDTs are and what they have to do with semilattices](https://www.youtube.com/watch?v=OOlnp2bZVRs)
+
 ## A few days of playing around
 
 * The [Nand2Tetris operating system project](https://www.nand2tetris.org/project12)
@@ -44,7 +46,6 @@ Linear algebra is not about matrices but about linear transformations of space. 
 
 * [Ray tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html). I collected [more graphics learning resources](graphics.md) on a separate page.
 
-
 ## A week of hard focused work, or more
 
 * Deep dive into compilers: the [Wirth book](https://people.inf.ethz.ch/wirth/CompilerConstruction/) and/or [SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html).
@@ -55,5 +56,6 @@ Linear algebra is not about matrices but about linear transformations of space. 
 
 * Get ready to teach OCaml and develop appealing course materials for that.
 
+* Meta: do something from [this list](https://github.com/danistefanovic/build-your-own-x)
 
 Credit: many of these ideas came from chats and pairing with various Recursers, but I haven't kept a record of what reference came from whom. Do reach out to me if you want to be credited for something! I got the idea for [an ideas list repo](https://github.com/captn3m0/ideas) from Nemo.
