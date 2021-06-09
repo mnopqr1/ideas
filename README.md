@@ -34,6 +34,8 @@ Linear algebra is not about matrices but about linear transformations of space. 
 
 * Understand what [CRDTs are and what they have to do with semilattices](https://www.youtube.com/watch?v=OOlnp2bZVRs)
 
+* Read classical papers in CS such as Turing's. With an RC reading group?
+
 ## A few days of playing around
 
 * The [Nand2Tetris operating system project](https://www.nand2tetris.org/project12)
