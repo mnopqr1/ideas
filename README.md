@@ -60,6 +60,10 @@ Linear algebra is not about matrices but about linear transformations of space. 
 
 * In particular: do some [Cryptopals](https://cryptopals.com/) challenges in OCaml and see if they can lead to good exercises.
 
+* Understand Lean by implementing some semigroup theory like Green's relations. Contribute to Mathlib?
+
+* Read Little Schemer / Little Typer.
+
 * Meta: do something from [this list](https://github.com/danistefanovic/build-your-own-x)
 
 Credit: many of these ideas came from chats and pairing with various Recursers, but I haven't kept a record of what reference came from whom. Do reach out to me if you want to be credited for something! I got the idea for [an ideas list repo](https://github.com/captn3m0/ideas) from Nemo.
